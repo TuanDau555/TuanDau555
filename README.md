@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugy0xC/giphy.gif" alt="Game Dev Gif" />
-
+<img align="right" height="150" src="https://media.giphy.com/media/2zotXB1xGbTB28cKAD/giphy.gif" />
 ###
 
 <div align="left">
@@ -29,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo" />
 </div>
 
 ###
