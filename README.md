@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tuấn Dậu and I'm a Game Developer student, from Vietnam 🇻🇳.</h2>
+<h2 align="left">Hi 👋! I am Tuấn Dậu and I'm a Game Developer student, from Vietnam 🇻🇳.</h2>
 
 ### Stats
 
